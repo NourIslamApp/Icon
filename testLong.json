@@ -1,0 +1,117 @@
+{
+    
+  "AppRedirect": {
+    "status": false,
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "RewardNetwork"           : "admob",
+    "NativeNetwork"           : "admob",
+    
+    "IntervalClick"           : 5,
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/9257395921",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Native"         : "76af75d288a7ada9",
+     
+    "Unity_GameID"            : "4076500",
+    "Unity_Banner"            : "BannerAd",
+    "Unity_InterstitialAd"    : "InterstitialAd",
+    "Unity_RewardAd"          : "rewardedVideo",
+
+    "IronSourceKey"           : "1197d7c85",
+    
+    "PrivacyUrl"              : "https://sites.google.com/view/devghali/",
+    "webUrl"                  : "https://app-ghali.store/",
+    "URL1"                    : "https://server10.mp3quran.net/jleel/",
+    "URL2"                    : "https://server10.mp3quran.net/jleel/",
+    "URL3"                    : "https://server10.mp3quran.net/jleel/",
+    "OnesignalKey"            : "c24ba096-5e9b-41e7-9965-855813170bdb"
+
+  },
+  
+ "AppsPromote": [
+    {
+      "name": "سعد الغامدي",
+      "packageName": "net.saadel.ghamidi.quran",
+      "icon": "https://play-lh.googleusercontent.com/S-wABhboQX13Xi9lEX_ZUg6uWMbj3fPrA-QeRhaIW8Mg_cOrzmpmhmQX9-IWcDPhXc8=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "مشاري العفاسي",
+      "packageName": "net.mishary.rashidalafasy.quran",
+      "icon": "https://play-lh.googleusercontent.com/_H6bm2UPm1Fi8XmJuq_ZG-9X1leNZ7_1oJyc2Ezn-4IGvUgF2z09DCX_nsyUIrROIA=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "ماهر المعيقلي",
+      "packageName": "net.maher.mueaqly.quran",
+      "icon": "https://play-lh.googleusercontent.com/NBR2fDwn-ldJcGvziuw0U4MBnC69MxjOu0kkzKrPhBYEqCpVylDT8zCKQpGb-ohtGh4=w240-h480",
+      "download": "+100 Million"
+    },
+    {
+      "name": "ياسر الدوسري",
+      "packageName": "net.yasser.dossari.quran",
+      "icon": "https://play-lh.googleusercontent.com/_E2ZqgZWdQJBBGqfoVxHlilcQev7T8UsT6O-9YRF035J8MLcfaz0MAKRaearuRoObow=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "ناصر القطامي",
+      "packageName": "net.nasser.alqatami.quran",
+      "icon": "https://play-lh.googleusercontent.com/5oPGWihcpzynCYrMAgr7TWzjCGInPYyFxsJfqOVxdro3rbeE1MTrOxElp29t-YISTw=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "عبدالرحمن السديس",
+      "packageName": "net.abderrahman.alsoudais.quran",
+      "icon": "https://play-lh.googleusercontent.com/CJmxiTmoKb8Y9y_8C6ofVxprNcacCHzJSeiCVyqY7PAZ1X8_V9-EEE_2_brb6jdRL8v9=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "سعود الشريم",
+      "packageName": "net.saoud.shuraim.quran",
+      "icon": "https://play-lh.googleusercontent.com/vXaI34wsEsT3g6VDzq3v9jXtp8qfE3qjo-0IjCe7xHCRBIjLC39LzzMOAWro-kC4pY0=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "أبو بكر الشاطري",
+      "packageName": "net.AbuBakr.AlShatri.quran",
+      "icon": "https://play-lh.googleusercontent.com/5amyCoc9yx5swLSdhSGL0R72aFM16Cf4UaFZQ3EKEfZ1ANNHLaDpZtYa0_R8pltVLg=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "علي الحذيفي",
+      "packageName": "net.Ali.Alhuthaify.quran",
+      "icon": "https://play-lh.googleusercontent.com/kqRnU6pCraA5idMxeXmeXqm9f7n4ZQ3-oHbrhlOfx5wMTcczjdI2MsowwFuKsjXG_ac=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "فارس عباد",
+      "packageName": "net.fares.abbad.quran",
+      "icon": "https://play-lh.googleusercontent.com/lXMi2LAmCjNhL7G527w5YkUPP5teiP8Zfz_aSn3LKVOhBeU6ZjoOGy9uQJih3u4F0TI=w240-h480",
+      "download": "+50 Million"
+    },
+    {
+      "name": "أحمد العجمي",
+      "packageName": "net.ahmed.alajmi.quran",
+      "icon": "https://play-lh.googleusercontent.com/_yAdPHFzxtcu3Fg-t-NxyCZmzJCsILWPIZao_ZQCC3Ci9vFdcB0u19g8vqCTappa5aQ=w240-h480",
+      "download": "+100 Million"
+    }
+  ]
+}
